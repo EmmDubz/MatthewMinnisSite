@@ -345,10 +345,11 @@ svg {
 .prose-content h2 {
   margin: 0 0 clamp(2.5rem, 6vw, 5rem);
   font-family: var(--serif);
-  font-size: clamp(2.8rem, 7vw, 6.5rem);
+  font-size: clamp(2.15rem, 5.4vw, 6.5rem);
   font-weight: 400;
-  line-height: 0.9;
+  line-height: 0.95;
   letter-spacing: -0.055em;
+  text-wrap: balance;
 }
 
 .prose-content {
@@ -383,17 +384,6 @@ svg {
   font-weight: 400;
   line-height: 1.08;
   letter-spacing: -0.025em;
-}
-
-.timeline-content h3::before {
-  position: absolute;
-  top: 2.57rem;
-  left: -1.4rem;
-  width: 0.45rem;
-  height: 0.45rem;
-  border: 1px solid var(--accent);
-  border-radius: 50%;
-  content: "";
 }
 
 .timeline-content h3 + p,
@@ -484,8 +474,8 @@ svg {
 
 .record-section {
   padding: clamp(4rem, 9vw, 8.5rem) clamp(1.25rem, 7vw, 7.5rem);
-  color: var(--paper);
-  background: var(--ink);
+  color: #f4f0e6;
+  background: #141412;
 }
 
 .section-kicker {
@@ -579,7 +569,7 @@ svg {
 
 .record-copy .eyebrow {
   margin: 0 0 2rem;
-  color: #aaa69b;
+  color: #d8d3c6;
   font-size: 0.65rem;
   text-transform: uppercase;
   letter-spacing: 0.16em;
@@ -603,13 +593,13 @@ svg {
 
 .record-copy > p:not(.eyebrow) {
   margin: 0.25rem 0;
-  color: #cac6bc;
+  color: #f0ebe0;
   font-family: var(--serif);
   font-size: clamp(1.15rem, 2vw, 1.75rem);
 }
 
 .record-copy .record-year {
-  color: #77746c;
+  color: #c8c3b6;
   font-family: var(--sans);
   font-size: 0.78rem;
 }
@@ -619,7 +609,7 @@ svg {
   align-items: center;
   gap: 0.65rem;
   margin-top: auto;
-  color: var(--paper);
+  color: #f4f0e6;
   font-size: 0.66rem;
   text-transform: uppercase;
   text-decoration: none;
@@ -694,14 +684,14 @@ svg {
 }
 
 .cv-content h2 {
-  margin: clamp(5rem, 10vw, 9rem) 0 2.5rem;
+  margin: clamp(4rem, 8vw, 7rem) 0 1.8rem;
   padding-top: 1rem;
   border-top: 1px solid var(--ink);
   font-family: var(--sans);
-  font-size: 0.68rem;
+  font-size: clamp(1.15rem, 2.6vw, 1.6rem);
   font-weight: 650;
   text-transform: uppercase;
-  letter-spacing: 0.16em;
+  letter-spacing: 0.08em;
 }
 
 .cv-content h3 {
@@ -749,13 +739,18 @@ svg {
   content: "";
 }
 
+.photography-page {
+  padding-top: clamp(2rem, 4vw, 3.5rem);
+  padding-bottom: clamp(2.5rem, 5vw, 4rem);
+}
+
 .photography-header {
   display: grid;
   grid-template-columns: 0.5fr 1fr auto;
   align-items: end;
-  gap: 2rem;
-  margin-bottom: clamp(3rem, 7vw, 7rem);
-  padding-bottom: 1.5rem;
+  gap: 1rem;
+  margin-bottom: 1.4rem;
+  padding-bottom: 0.9rem;
   border-bottom: 1px solid var(--ink);
 }
 
@@ -778,22 +773,15 @@ svg {
 }
 
 .photo-grid {
-  display: grid;
-  grid-template-columns: repeat(12, minmax(0, 1fr));
-  gap: clamp(0.7rem, 1.6vw, 1.5rem);
+  columns: 3;
+  column-gap: 0.7rem;
 }
 
 .photo-item {
-  grid-column: span 6;
-  margin: 0 0 clamp(2rem, 5vw, 5rem);
-}
-
-.photo-item.portrait {
-  grid-column: span 4;
-}
-
-.photo-item.square {
-  grid-column: span 5;
+  display: inline-block;
+  width: 100%;
+  margin: 0 0 0.7rem;
+  break-inside: avoid;
 }
 
 .photo-item button {
@@ -940,12 +928,12 @@ svg {
 .lightbox-close {
   position: absolute;
   top: 0;
-  right: -1rem;
+  right: 0;
   padding: 0.7rem 1rem;
   transform: translateY(-130%);
-  border: 1px solid rgb(241 238 230 / 50%);
-  color: var(--paper);
-  background: transparent;
+  border: 1px solid #f1eee6;
+  color: #f1eee6;
+  background: #141412;
   font-size: 0.65rem;
   text-transform: uppercase;
   letter-spacing: 0.14em;
@@ -1061,10 +1049,6 @@ svg {
     margin-top: 3rem;
   }
 
-  .timeline-content h3::before {
-    display: none;
-  }
-
   .timeline-content h3 + p,
   .timeline-content h3 + p + p,
   .timeline-content h3 + p + p + ul {
@@ -1086,6 +1070,10 @@ svg {
 
   .record-card {
     gap: 2.5rem;
+  }
+
+  .photo-grid {
+    columns: 2;
   }
 
   .photography-header {
@@ -1148,7 +1136,8 @@ svg {
   }
 
   .prose-content h2 {
-    font-size: clamp(2.8rem, 16vw, 4.4rem);
+    font-size: clamp(1.85rem, 8.6vw, 2.4rem);
+    line-height: 1.05;
   }
 
   .timeline-content h3 {
@@ -1244,10 +1233,12 @@ svg {
     width: 84%;
   }
 
-  .photo-item,
-  .photo-item.portrait,
-  .photo-item.square {
-    grid-column: 1 / -1;
+  .photo-grid {
+    columns: 1;
+  }
+
+  .cv-content h2 {
+    font-size: 1.2rem;
   }
 
   .site-footer {
@@ -1291,25 +1282,29 @@ svg {
   }
 
   .section-kicker {
-    border-color: #4a4b45;
-    color: #d1cdc1;
+    border-color: #5a5b54;
+    color: #e4dfd3;
   }
 
   .record-section {
-    color: var(--ink);
-    background: #0f100f;
+    color: #f7f3e9;
+    background: #10110f;
   }
 
-  .record-copy .eyebrow {
-    color: #c5c1b7;
-  }
-
-  .record-copy > p:not(.eyebrow) {
-    color: #e0dcd2;
-  }
-
+  .record-copy .eyebrow,
   .record-copy .record-year {
-    color: #aaa69d;
+    color: #ddd8cc;
+  }
+
+  .record-copy > p:not(.eyebrow),
+  .record-copy > a {
+    color: #f7f3e9;
+  }
+
+  .lightbox-close {
+    border-color: #f7f3e9;
+    color: #f7f3e9;
+    background: #10110f;
   }
 }
 

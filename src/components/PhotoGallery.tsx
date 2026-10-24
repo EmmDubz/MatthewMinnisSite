@@ -43,11 +43,10 @@ export function PhotoGallery({ photos }: PhotoGalleryProps) {
     <>
       <div className="photo-grid">
         {photos.map((photo) => (
-          <figure className={`photo-item ${photo.orientation ?? 'landscape'}`} key={photo.src}>
+          <figure className="photo-item" key={photo.src}>
             <button type="button" onClick={() => setActivePhoto(photo)}>
               <img src={photo.src} alt={photo.alt ?? ''} loading="lazy" />
             </button>
-            {photo.caption ? <figcaption>{photo.caption}</figcaption> : null}
           </figure>
         ))}
       </div>
@@ -70,7 +69,6 @@ export function PhotoGallery({ photos }: PhotoGalleryProps) {
               Close
             </button>
             <img src={activePhoto.src} alt={activePhoto.alt ?? ''} />
-            {activePhoto.caption ? <figcaption>{activePhoto.caption}</figcaption> : null}
           </figure>
         </div>
       ) : null}

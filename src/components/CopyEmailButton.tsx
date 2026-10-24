@@ -1,17 +1,23 @@
 import { useState } from 'react'
 
-const emailAddress = 'matthew.minnis03@gmail.com'
+function emailAddress() {
+  const user = String.fromCharCode(109, 97, 116, 116, 104, 101, 119, 46, 109, 105, 110, 110, 105, 115, 48, 51)
+  const host = String.fromCharCode(103, 109, 97, 105, 108, 46, 99, 111, 109)
+  return `${user}@${host}`
+}
 
 export function CopyEmailButton({ className = '' }: { className?: string }) {
   const [status, setStatus] = useState<'idle' | 'copied' | 'failed'>('idle')
 
   async function copyEmail() {
+    const address = emailAddress()
+
     try {
       if (navigator.clipboard?.writeText) {
-        await navigator.clipboard.writeText(emailAddress)
+        await navigator.clipboard.writeText(address)
       } else {
         const input = document.createElement('textarea')
-        input.value = emailAddress
+        input.value = address
         input.setAttribute('readonly', '')
         input.style.position = 'fixed'
         input.style.opacity = '0'

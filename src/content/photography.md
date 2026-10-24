@@ -28,15 +28,12 @@ photos:
 
 <!--
 AUTHOR PROMPT:
-Add alt text and optional captions to the entries under `photos` above:
+Add alt text to the entries under `photos` above if you want it:
 
 photos:
   - src: /photos/example.webp
     alt: Your image description
-    caption: Your optional caption
-    orientation: landscape
 
-Use `portrait`, `landscape`, or `square` for orientation.
 The gallery order is deliberate; change it here when you want a different sequence.
-All alt text and captions should be written by you.
+All alt text should be written by you.
 -->
