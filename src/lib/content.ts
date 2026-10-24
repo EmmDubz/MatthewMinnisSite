@@ -7,7 +7,7 @@ import projectsSource from '../content/projects.md?raw'
 
 export type Photo = {
   src: string
-  alt: string
+  alt?: string
   caption?: string
   orientation?: 'portrait' | 'landscape' | 'square'
 }
@@ -36,7 +36,7 @@ function readDocument<T extends Record<string, unknown> = Record<string, unknown
     for (const line of frontMatter.split('\n')) {
       const itemMatch = line.match(/^\s*-\s+src:\s*(.+)\s*$/)
       if (itemMatch) {
-        if (current?.src && current.alt) photos.push(current as Photo)
+        if (current?.src) photos.push(current as Photo)
         current = { src: cleanValue(itemMatch[1]) }
         continue
       }
@@ -48,7 +48,7 @@ function readDocument<T extends Record<string, unknown> = Record<string, unknown
       }
     }
 
-    if (current?.src && current.alt) photos.push(current as Photo)
+    if (current?.src) photos.push(current as Photo)
     data.photos = photos
   }
 

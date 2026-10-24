@@ -45,7 +45,7 @@ export function PhotoGallery({ photos }: PhotoGalleryProps) {
         {photos.map((photo) => (
           <figure className={`photo-item ${photo.orientation ?? 'landscape'}`} key={photo.src}>
             <button type="button" onClick={() => setActivePhoto(photo)}>
-              <img src={photo.src} alt={photo.alt} loading="lazy" />
+              <img src={photo.src} alt={photo.alt ?? ''} loading="lazy" />
             </button>
             {photo.caption ? <figcaption>{photo.caption}</figcaption> : null}
           </figure>
@@ -69,7 +69,7 @@ export function PhotoGallery({ photos }: PhotoGalleryProps) {
             >
               Close
             </button>
-            <img src={activePhoto.src} alt={activePhoto.alt} />
+            <img src={activePhoto.src} alt={activePhoto.alt ?? ''} />
             {activePhoto.caption ? <figcaption>{activePhoto.caption}</figcaption> : null}
           </figure>
         </div>

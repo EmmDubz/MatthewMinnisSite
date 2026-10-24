@@ -1211,7 +1211,7 @@ svg {
   }
 
   .photography-header h1 {
-    font-size: clamp(3.7rem, 20vw, 6rem);
+    font-size: clamp(3rem, 15vw, 5rem);
   }
 
   .photography-header > span {
