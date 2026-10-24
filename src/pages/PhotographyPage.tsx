@@ -12,9 +12,7 @@ export function PhotographyPage() {
     <article className="page-shell photography-page">
       <PageMeta title="Photography" path="/photography" />
       <header className="photography-header">
-        <p>Selected work</p>
         <MarkdownContent>{content.photography.body}</MarkdownContent>
-        <span>{photos.length.toString().padStart(2, '0')} photographs</span>
       </header>
       <PhotoGallery photos={photos} />
     </article>

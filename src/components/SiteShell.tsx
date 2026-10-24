@@ -65,9 +65,6 @@ export function SiteShell() {
           >
             LinkedIn <ArrowIcon />
           </a>
-          <a href="https://www.discogs.com/user/MDubz" rel="noreferrer" target="_blank">
-            Discogs <ArrowIcon />
-          </a>
         </div>
       </footer>
     </div>

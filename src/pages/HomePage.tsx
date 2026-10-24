@@ -19,7 +19,6 @@ export function HomePage() {
     <>
       <PageMeta />
       <section className="hero-section">
-        <p className="hero-index">Portfolio / 2026</p>
         <MarkdownContent className="hero-copy">{content.home.body}</MarkdownContent>
         <div className="hero-links">
           <CopyEmailButton />

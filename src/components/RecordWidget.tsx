@@ -32,33 +32,21 @@ export function RecordWidget() {
       </div>
 
       <div className="record-card">
-        <a
-          className="record-art"
-          href={record.discogsUrl}
-          rel="noreferrer"
-          target="_blank"
-          aria-label={`${record.title} on Discogs`}
-        >
+        <div className="record-art">
           {record.cover ? (
             <img src={record.cover} alt={`${record.title} cover`} loading="lazy" />
           ) : (
             <span aria-hidden="true">33⅓</span>
           )}
-        </a>
+        </div>
 
         <div className="record-copy">
           <p className="eyebrow" id="record-heading">
             Currently spinning
           </p>
-          <h2>{record.title}</h2>
+          <h2 title={record.title}>{record.title}</h2>
           <p>{record.artist}</p>
           {record.year ? <p className="record-year">{record.year}</p> : null}
-          <a href={record.discogsUrl} rel="noreferrer" target="_blank">
-            View on Discogs
-            <svg aria-hidden="true" viewBox="0 0 16 16">
-              <path d="M3 13 13 3m0 0H5m8 0v8" />
-            </svg>
-          </a>
         </div>
       </div>
     </section>

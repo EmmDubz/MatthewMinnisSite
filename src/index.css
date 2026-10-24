@@ -374,35 +374,34 @@ svg {
 }
 
 .timeline-content h3 {
-  position: relative;
-  max-width: 42%;
-  margin: 3.4rem 0 0.7rem;
-  padding-top: 2.25rem;
+  max-width: 38rem;
+  margin: 3.2rem 0 0.35rem;
+  padding-top: 1.8rem;
   border-top: 1px solid var(--line);
   font-family: var(--serif);
   font-size: clamp(1.5rem, 2.5vw, 2.25rem);
   font-weight: 400;
-  line-height: 1.08;
+  line-height: 1.12;
   letter-spacing: -0.025em;
 }
 
 .timeline-content h3 + p,
 .timeline-content h3 + p + p,
 .timeline-content h3 + p + p + ul {
-  max-width: 55%;
-  margin-left: 45%;
+  max-width: 46rem;
+  margin-left: 0;
 }
 
 .timeline-content h3 + p {
-  margin-top: -3.15rem;
+  margin-top: 0.15rem;
 }
 
 .timeline-content h3 + p + p {
-  margin-top: 0.2rem;
+  margin-top: 0.1rem;
 }
 
 .timeline-content h3 + p + p + ul {
-  margin-top: 1rem;
+  margin-top: 1.15rem;
 }
 
 .timeline-content > p {
@@ -484,8 +483,8 @@ svg {
   justify-content: space-between;
   margin-bottom: clamp(2rem, 5vw, 4.5rem);
   padding-bottom: 1rem;
-  border-bottom: 1px solid #3d3d38;
-  color: #aaa69b;
+  border-bottom: 1px solid #5a5a54;
+  color: #ddd8cc;
   font-size: 0.65rem;
   text-transform: uppercase;
   letter-spacing: 0.15em;
@@ -497,7 +496,7 @@ svg {
   gap: 0.55rem;
   padding: 0;
   border: 0;
-  color: var(--paper);
+  color: #f7f3e9;
   background: transparent;
   text-transform: uppercase;
   letter-spacing: inherit;
@@ -520,7 +519,7 @@ svg {
   align-items: end;
   gap: clamp(2.5rem, 8vw, 9rem);
   max-width: 1180px;
-  min-height: clamp(360px, 38vw, 520px);
+  min-height: 0;
   margin: 0 auto;
 }
 
@@ -562,9 +561,9 @@ svg {
 
 .record-copy {
   display: flex;
-  min-height: 320px;
+  min-height: 0;
   flex-direction: column;
-  padding-bottom: 1rem;
+  padding-bottom: 0.25rem;
 }
 
 .record-copy .eyebrow {
@@ -577,18 +576,20 @@ svg {
 
 .record-copy h2 {
   display: -webkit-box;
-  height: clamp(8.5rem, 18vw, 13.5rem);
+  max-width: 720px;
+  min-height: 0;
+  max-height: 2.3em;
+  margin: 0 0 0.8rem;
   overflow: hidden;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 3;
-  max-width: 720px;
-  overflow-wrap: anywhere;
-  margin: 0 0 0.8rem;
+  -webkit-line-clamp: 2;
   font-family: var(--serif);
-  font-size: clamp(3rem, 7vw, 7rem);
+  font-size: clamp(2.1rem, 4.4vw, 4.2rem);
   font-weight: 400;
-  line-height: 0.87;
-  letter-spacing: -0.055em;
+  line-height: 1.1;
+  letter-spacing: -0.04em;
+  overflow-wrap: break-word;
+  text-overflow: ellipsis;
 }
 
 .record-copy > p:not(.eyebrow) {
@@ -745,12 +746,9 @@ svg {
 }
 
 .photography-header {
-  display: grid;
-  grid-template-columns: 0.5fr 1fr auto;
-  align-items: end;
-  gap: 1rem;
+  display: block;
   margin-bottom: 1.4rem;
-  padding-bottom: 0.9rem;
+  padding-bottom: 1.15rem;
   border-bottom: 1px solid var(--ink);
 }
 
@@ -765,11 +763,12 @@ svg {
 
 .photography-header h1 {
   margin: 0;
+  padding-bottom: 0.08em;
   font-family: var(--serif);
-  font-size: clamp(3.5rem, 9vw, 8rem);
+  font-size: clamp(3.2rem, 8vw, 6.5rem);
   font-weight: 400;
-  line-height: 0.82;
-  letter-spacing: -0.065em;
+  line-height: 1;
+  letter-spacing: -0.05em;
 }
 
 .photo-grid {
@@ -1077,11 +1076,7 @@ svg {
   }
 
   .photography-header {
-    grid-template-columns: 1fr auto;
-  }
-
-  .photography-header > p {
-    grid-column: 1 / -1;
+    display: block;
   }
 }
 
@@ -1162,8 +1157,8 @@ svg {
   }
 
   .record-copy h2 {
-    height: 9.6rem;
-    font-size: clamp(2.7rem, 15vw, 4.5rem);
+    max-height: 2.4em;
+    font-size: clamp(1.9rem, 8vw, 2.8rem);
   }
 
   .cv-cta {
@@ -1284,6 +1279,10 @@ svg {
   .section-kicker {
     border-color: #5a5b54;
     color: #e4dfd3;
+  }
+
+  .section-kicker button {
+    color: #f7f3e9;
   }
 
   .record-section {
