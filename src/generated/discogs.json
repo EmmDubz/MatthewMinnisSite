@@ -1,0 +1,693 @@
+{
+  "syncedAt": "2026-10-24T19:33:43.442Z",
+  "records": [
+    {
+      "id": 36420514,
+      "title": "Wiped Out!",
+      "artist": "The Neighbourhood",
+      "year": 2026,
+      "cover": "https://i.discogs.com/pA4s1jKeidvBuOLAJTJTUtreNLHT4f-tzu0qn6qbRAE/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NDIw/NTE0LTE3NzAzNzUw/NzUtOTMwMy5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/36420514"
+    },
+    {
+      "id": 36027415,
+      "title": "Wellnxss",
+      "artist": "Last Dinosaurs",
+      "year": 2025,
+      "cover": "https://i.discogs.com/G9hKgA3Y-WbzsSpi0m16FDXrybzQm-_iiTh1K_ZoBnE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDI3/NDE1LTE3Njc4MTU3/ODEtMzMyNy5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/36027415"
+    },
+    {
+      "id": 7643119,
+      "title": "Nothing But Thieves",
+      "artist": "Nothing But Thieves",
+      "year": 2015,
+      "cover": "https://i.discogs.com/GGE90_2SpcGRxwDtdBsyfd3SstqnUfrB1mR9xmviIFQ/rs:fit/g:sm/q:90/h:512/w:512/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc2NDMx/MTktMTQ0NTc4NTEx/OC05NjUyLnBuZw.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/7643119"
+    },
+    {
+      "id": 31641199,
+      "title": "The Dichotomy",
+      "artist": "David Kushner",
+      "year": 2024,
+      "cover": "https://i.discogs.com/x5xgDoo65DjxoBGmlmbcqfzbZsNJ-pkvtZc759KgicA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjQx/MTk5LTE3MjUzOTIx/MzgtNDQxNS5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/31641199"
+    },
+    {
+      "id": 31074833,
+      "title": "Walking On A Dream",
+      "artist": "Empire Of The Sun",
+      "year": 2024,
+      "cover": "https://i.discogs.com/SQ1VGrkF3q2RlOFaVu4YkI5yNnJedTEorSa364R0asA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDc0/ODMzLTE3NTg4MjA3/ODItODgwMy5wbmc.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/31074833"
+    },
+    {
+      "id": 29661862,
+      "title": "How To Save A Life",
+      "artist": "The Fray",
+      "year": 2024,
+      "cover": "https://i.discogs.com/aCWmvZqthWS4LVoac9S9By4CCG4ZBy8y8kmv9vllL8I/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NjYx/ODYyLTE3MDc3MDc3/MDUtNTkwMi5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/29661862"
+    },
+    {
+      "id": 27610956,
+      "title": "Footprints I Found",
+      "artist": "David Kushner",
+      "year": 2023,
+      "cover": "https://i.discogs.com/ToOX44uhxcXhD_zQ-TTTmseS1sUMa9ihhb9iFdhJuq0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjEw/OTU2LTE2OTQwNDI2/MzgtNDQwMC5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/27610956"
+    },
+    {
+      "id": 17122017,
+      "title": "Blood Harmony",
+      "artist": "FINNEAS",
+      "year": 2021,
+      "cover": "https://i.discogs.com/VVwbaNlZwMSBjQvkVw_dHdQRG4pJBXH980OBPhtaUQo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIy/MDE3LTE2OTA5MzMy/NTItNTQ0MC5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/17122017"
+    },
+    {
+      "id": 8008960,
+      "title": "Inside In / Inside Out",
+      "artist": "The Kooks",
+      "year": 2016,
+      "cover": "https://i.discogs.com/vR5VGptRoNGzciy0gDRa7VXySOugyza6tndN0eWpmfY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDg5/NjAtMTczOTM4ODA2/OC05MjIyLmpwZWc.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/8008960"
+    },
+    {
+      "id": 5735339,
+      "title": "Vessel",
+      "artist": "Twenty One Pilots",
+      "year": 2014,
+      "cover": "https://i.discogs.com/yJOZ-CFQqr9hR50TEouB1a3Nq6Z_QS2mSAsjgVGBbEw/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzUz/MzktMTQ3MjE0MzA2/OS05NDAxLmpwZWc.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/5735339"
+    },
+    {
+      "id": 26593091,
+      "title": "Portals",
+      "artist": "Melanie Martinez",
+      "year": 2023,
+      "cover": "https://i.discogs.com/_ZDatPtdkGpO5SkDMsHlLkwZnlBaPjlxbFdzISlf81Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTkz/MDkxLTE3MzQ3MDk1/MjQtODkyOC5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/26593091"
+    },
+    {
+      "id": 21041827,
+      "title": "Scaled And Icy",
+      "artist": "Twenty One Pilots",
+      "year": 2021,
+      "cover": "https://i.discogs.com/pL_X0D4wGjXeFtHCrZrj336pC3z73ndRU9d_3x2aoWI/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDQx/ODI3LTE2Mzc0MTg3/OTItMjY4My5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/21041827"
+    },
+    {
+      "id": 5877431,
+      "title": "Jungle",
+      "artist": "Jungle",
+      "year": 2014,
+      "cover": "https://i.discogs.com/U_5IUuBKZ8mv3NUBSNfDxtTmu85ezO9Q_iEyD9PB6F4/rs:fit/g:sm/q:90/h:368/w:368/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Nzc0/MzEtMTQwNTE4MDQ5/MC03Njk5LmpwZWc.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/5877431"
+    },
+    {
+      "id": 15734772,
+      "title": "Dreamland",
+      "artist": "Glass Animals",
+      "year": 2020,
+      "cover": "https://i.discogs.com/J4fhc0HpNttE8apg8UcevHYl5vkCQdPLkPDLstupHJs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzM0/NzcyLTE3MTM2MDMw/NzktNzM3MS5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/15734772"
+    },
+    {
+      "id": 28446010,
+      "title": "How To Be A Human Being",
+      "artist": "Glass Animals",
+      "year": 2023,
+      "cover": "https://i.discogs.com/UuhzZjVm3zGM-hpr66TAJwACc1p59kUBLJg-hGs90-c/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDQ2/MDEwLTE2OTYwMjg5/MTMtNDA5Ni5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/28446010"
+    },
+    {
+      "id": 30767772,
+      "title": "Clancy",
+      "artist": "Twenty One Pilots",
+      "year": 2024,
+      "cover": "https://i.discogs.com/N9ruRwX96nbSq2E2fxiYfJs8m1pDKmLOz15QKQKdR3s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzY3/NzcyLTE3MTY3NjY5/NTgtMzU0Ny5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/30767772"
+    },
+    {
+      "id": 8253328,
+      "title": "Blurryface",
+      "artist": "Twenty One Pilots",
+      "year": 2015,
+      "cover": "https://i.discogs.com/7cO-pf7I26e2VeLU6KlqLnRbESwDMGt9gYedwsPv5Mo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNTMz/MjgtMTQ3MzY2ODA0/MC05MTA2LmpwZWc.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/8253328"
+    },
+    {
+      "id": 29322373,
+      "title": "When We All Fall Asleep, Where Do We Go?",
+      "artist": "Billie Eilish",
+      "year": null,
+      "cover": "https://i.discogs.com/nGyE4RTROXXEPv1Yrl1FkOXgJEJx9XT2ZRvcHSO8CYQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MzIy/MzczLTE3MDM3OTQz/NzQtMzk3OC5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/29322373"
+    },
+    {
+      "id": 31248871,
+      "title": "I Love You So F***ing Much.",
+      "artist": "Glass Animals",
+      "year": 2024,
+      "cover": "https://i.discogs.com/QdVV0Q7zbd1SXzPf-YyH6K2DmYWR_PDl5jov8MkEq9I/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ4/ODcxLTE3MjEyNDc3/NDAtOTA1Ny5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/31248871"
+    },
+    {
+      "id": 31558717,
+      "title": "Kissing Death",
+      "artist": "Mothica",
+      "year": 2024,
+      "cover": "https://i.discogs.com/FpoEPiVzvbzm7AmIloeYSQ2hpLx4PHy4gP23bLRPiFY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTU4/NzE3LTE3MjQ0ODk1/ODctNTg5Mi5wbmc.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/31558717"
+    },
+    {
+      "id": 27106191,
+      "title": "Russian Doll: Seasons 1 & 2 (Music from The Netflix Original Series)",
+      "artist": "Joe Wong",
+      "year": 2023,
+      "cover": "https://i.discogs.com/XM8dXxavMgp7tGExSd7SqM49GWMl3L3Ws0VvvfrWWds/rs:fit/g:sm/q:90/h:600/w:554/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTA2/MTkxLTE3MTcxNzQy/MzItMjk1My5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/27106191"
+    },
+    {
+      "id": 7375186,
+      "title": "Minecraft Volume Alpha",
+      "artist": "C418",
+      "year": 2015,
+      "cover": "https://i.discogs.com/udE1NNTD6WleXzYK5gVnHSgVS3kmNdFCguitkkYcj-E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzUx/ODYtMTQ0MDE5NzA4/Ny02MDk0LmpwZWc.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/7375186"
+    },
+    {
+      "id": 15764805,
+      "title": "Minecraft Volume Beta",
+      "artist": "C418",
+      "year": 2020,
+      "cover": "https://i.discogs.com/hec8cpuOL523rYHtFto_OWWv23qrH9lPOKhVLouZBo4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzY0/ODA1LTE2NzE3MzE3/MjgtMjY5NC5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/15764805"
+    },
+    {
+      "id": 13284229,
+      "title": "Wasteland, Baby!",
+      "artist": "Hozier",
+      "year": 2019,
+      "cover": "https://i.discogs.com/-5pD9hNLsnRXECjHiwPT1cb7Zaz7jr1fay45mdv_9Xo/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg0/MjI5LTE1NTEzNjY5/NDYtMzU2Ni5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/13284229"
+    },
+    {
+      "id": 29937907,
+      "title": "Westworld: Season 4 (Music From The HBO® Series)",
+      "artist": "Ramin Djawadi",
+      "year": 2024,
+      "cover": "https://i.discogs.com/n4rBvjuV02s2S4thLwmb0rX-KvoaAnasyseAAxInciM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTM3/OTA3LTE3MTAwMzA2/NTctODcyMi5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/29937907"
+    },
+    {
+      "id": 29595160,
+      "title": "Westworld: Season 3 (Music From The HBO® Series)",
+      "artist": "Ramin Djawadi",
+      "year": 2024,
+      "cover": "https://i.discogs.com/80koeNFEzGUOhekQf8QAlq0JtPXHqUo_f4ch6x3r1WQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NTk1/MTYwLTE3MDY0MjA2/ODMtMjQzMy5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/29595160"
+    },
+    {
+      "id": 29249140,
+      "title": "Westworld: Season 2 (Music From The HBO® Series)",
+      "artist": "Ramin Djawadi",
+      "year": 2023,
+      "cover": "https://i.discogs.com/OXKRa4Ue5e6egIas7PWprzJ8l9i_-ZIZjahM46ghTcw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjQ5/MTQwLTE3MDQzMzIx/NjItOTg2MC5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/29249140"
+    },
+    {
+      "id": 28905289,
+      "title": "Westworld: Season 1 (Music From The HBO® Series)",
+      "artist": "Ramin Djawadi",
+      "year": 2023,
+      "cover": "https://i.discogs.com/EKlsGvHYUwTP1kA0LgK4FjNFyhE_j2lfO_jEZhrqP1E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4OTA1/Mjg5LTE2OTk5NDAw/MzctNjU1OS5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/28905289"
+    },
+    {
+      "id": 23776664,
+      "title": "An Awesome Wave",
+      "artist": "Alt-J",
+      "year": 2022,
+      "cover": "https://i.discogs.com/9YfmQ93u5m4fviGfVIc3hF1kcXU1UZJEA0q9B35_T-w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzc2/NjY0LTE2NjY0Nzk4/OTgtMTc5OS5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/23776664"
+    },
+    {
+      "id": 11346765,
+      "title": "The Suburbs",
+      "artist": "Arcade Fire",
+      "year": 2017,
+      "cover": "https://i.discogs.com/X9JVPGAYBGz1qINlEdNv6jbmmyCBM2ldDyhqOeXRTe4/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMzQ2/NzY1LTE1MTUwMjMy/MjYtNjE1NS5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/11346765"
+    },
+    {
+      "id": 27541713,
+      "title": "Dead Club City",
+      "artist": "Nothing But Thieves",
+      "year": 2023,
+      "cover": "https://i.discogs.com/TObjBQl9lvkS0Tty9mTjbioGiO6S7cOOoygZC7qtZrk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NTQx/NzEzLTE2ODgxNjM2/NTMtMTg2Ni5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/27541713"
+    },
+    {
+      "id": 13586412,
+      "title": "Thank U, Next",
+      "artist": "Ariana Grande",
+      "year": 2019,
+      "cover": "https://i.discogs.com/TyyTvu1U-6VDQO3BZuLp3uO9guKpKYfUVdDjIiqChzA/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTg2/NDEyLTE1NTY5OTc5/ODMtNDcwOC5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/13586412"
+    },
+    {
+      "id": 14460710,
+      "title": "In A Million Years",
+      "artist": "Last Dinosaurs",
+      "year": 2019,
+      "cover": "https://i.discogs.com/q7nENCIJh1z3gvWtiYLq-escOmQseEkQYqUl7eldLo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDYw/NzEwLTE1NzQ5NzU3/MDgtOTEwNC5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/14460710"
+    },
+    {
+      "id": 25887505,
+      "title": "Forever Fifteen",
+      "artist": "Mothica",
+      "year": 2023,
+      "cover": "https://i.discogs.com/tT5ZdrfoGRf5mtaCr0WXVz2OX1LRrZHQpupuIv4sKoo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODg3/NTA1LTE2ODAxMzY1/ODMtMTkwMC5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/25887505"
+    },
+    {
+      "id": 7773820,
+      "title": "Cry Baby",
+      "artist": "Melanie Martinez",
+      "year": 2015,
+      "cover": "https://i.discogs.com/DO9bIJX2O_acbLPDcemiSVHDGIMNlr5pxlzm-BvkDT0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3NzM4/MjAtMTY0MDY2NjU3/NC0xMDUyLmpwZWc.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/7773820"
+    },
+    {
+      "id": 15397777,
+      "title": "Moral Of The Story",
+      "artist": "Ashe",
+      "year": 2020,
+      "cover": "https://i.discogs.com/CzQA9R97NjleQv7dQMcwsEysSqByH6lHlOY4FF862ok/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzk3/Nzc3LTE2MjcxNjkw/ODUtMzA0My5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/15397777"
+    },
+    {
+      "id": 27678582,
+      "title": "Evergreen",
+      "artist": "Pvris",
+      "year": 2023,
+      "cover": "https://i.discogs.com/_YJizrewPWamXHcLMQf5RfoBdK3FO3onoFn_d6AG_Og/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njc4/NTgyLTE2OTYxOTE5/ODktOTc5OS5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/27678582"
+    },
+    {
+      "id": 4881614,
+      "title": "The 1975",
+      "artist": "The 1975",
+      "year": 2013,
+      "cover": "https://i.discogs.com/Zuq3jDlAO_3K7vocmxeUjrHT6Wq-Wwv_wqi2WTvkCEI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODE2/MTQtMTY2NjQ5ODM4/OC04NDU1LmpwZWc.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/4881614"
+    },
+    {
+      "id": 10901377,
+      "title": "Stranger In The Alps",
+      "artist": "Phoebe Bridgers",
+      "year": 2017,
+      "cover": "https://i.discogs.com/XmMMgR_6A_85TC92AI1QmAguQ1h-qkcTuEobG4AVPTM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwOTAx/Mzc3LTE3MzA0MDYx/OTEtOTUzMi5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/10901377"
+    },
+    {
+      "id": 25204633,
+      "title": "Nocturnal",
+      "artist": "Mothica",
+      "year": 2022,
+      "cover": "https://i.discogs.com/15-n-T-JRTrzfb6_i1eUhGZqdIJHYzbXtN5jYm-YYTI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjA0/NjMzLTE2Njk3NDc0/MDAtMTMzNy5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/25204633"
+    },
+    {
+      "id": 26824523,
+      "title": "Debbie Downer x Overkill",
+      "artist": "LØLØ",
+      "year": 2023,
+      "cover": "https://i.discogs.com/BnRHt3smMYMEkeYqu2LdDcDaP0MB4c7WiA-WR8iVd1k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2ODI0/NTIzLTE3ODA1MjA1/NDktMjk2My5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/26824523"
+    },
+    {
+      "id": 6986924,
+      "title": "Oracular Spectacular",
+      "artist": "MGMT",
+      "year": 2014,
+      "cover": "https://i.discogs.com/nuleZP1r_Nk8ytpX6XDpveh1VeU-bWXbfogMAltTbyw/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODY5/MjQtMTUxMjA2NDY5/NC0xNjA4LmpwZWc.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/6986924"
+    },
+    {
+      "id": 17549140,
+      "title": "Tom Clancy's Rainbow Six Siege Fifth Anniversary Collection",
+      "artist": "Various",
+      "year": 2021,
+      "cover": "https://i.discogs.com/ngS62qw_NsiJMyZOjVC0CDUtJqjORLix53gxNGks5NI/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTQ5/MTQwLTE2MTQwODE2/MDYtNDg0Mi5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/17549140"
+    },
+    {
+      "id": 6734085,
+      "title": "Interstellar (Original Motion Picture Soundtrack)",
+      "artist": "Hans Zimmer",
+      "year": 2015,
+      "cover": "https://i.discogs.com/M63j_Ns8UnKNqAoiUEPv9B4tcU3iSehMyVMyWVNVMkQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY3MzQw/ODUtMTQyNjg4OTQ3/Ny04OTM1LmpwZWc.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/6734085"
+    },
+    {
+      "id": 5057494,
+      "title": "Pure Heroine",
+      "artist": "Lorde",
+      "year": 2013,
+      "cover": "https://i.discogs.com/oWyeC1tRp-HLv0T6GOpSu1Coad-1uLANkSx5DOMLcUY/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUwNTc0/OTQtMTUzODUzNDUz/MS04ODc2LmpwZWc.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/5057494"
+    },
+    {
+      "id": 14990700,
+      "title": "The Music Of Red Dead Redemption II (Original Score)",
+      "artist": "Various",
+      "year": 2020,
+      "cover": "https://i.discogs.com/Jic1ImeyQDmiTssWPwoG8LK48DQFb0F_X8ll-io49I4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTkw/NzAwLTE1ODY0NTM3/MjctNzUwOS5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/14990700"
+    },
+    {
+      "id": 11025153,
+      "title": "My Head Is An Animal",
+      "artist": "Of Monsters And Men",
+      "year": 2012,
+      "cover": "https://i.discogs.com/bj-M9Pm7W-IPRuPz981TqJkuULznMqN6-Z25r7yIFAI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDI1/MTUzLTE1MDg0NzM0/NzAtNTIwMy5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/11025153"
+    },
+    {
+      "id": 9065362,
+      "title": "III",
+      "artist": "Miike Snow",
+      "year": 2016,
+      "cover": "https://i.discogs.com/RsyoQkJZ41j6-bhF_pjy9VVW2xdTVy4SrsgIJGDz7uE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwNjUz/NjItMTQ3NDE2MTYy/MS05NzI3LmpwZWc.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/9065362"
+    },
+    {
+      "id": 14148945,
+      "title": "Bad Ideas (Act One)",
+      "artist": "Tessa Violet",
+      "year": 2019,
+      "cover": "https://i.discogs.com/HUCVKQhRSnLAGvGrq7koWm8IVphR8fWg4d1h5hWJjoM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MTQ4/OTQ1LTE1Njg3NDI1/NTctMjU4MS5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/14148945"
+    },
+    {
+      "id": 12811409,
+      "title": "Drugstore Heaven",
+      "artist": "Houses",
+      "year": 2018,
+      "cover": "https://i.discogs.com/qkHguSXgyHQqoWOcvdGr2wMLL_UeYdVYtRaVphsbwKU/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODEx/NDA5LTE1NDI0MTEw/NzctMzA0NS5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/12811409"
+    },
+    {
+      "id": 4915209,
+      "title": "I Love You.",
+      "artist": "The Neighbourhood",
+      "year": 2014,
+      "cover": "https://i.discogs.com/tF5h4TeJi62-73e8DYPnGjWg5jt7kCFEAX7flK0jgZk/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MTUy/MDktMTM3OTI5NTY2/Ny0yMjkzLmpwZWc.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/4915209"
+    },
+    {
+      "id": 13379341,
+      "title": "Narrated For You",
+      "artist": "Alec Benjamin",
+      "year": 2019,
+      "cover": "https://i.discogs.com/I3zRc7Wfms0Z1H6teG0jWgQulRY-fqSsyl9Y_rnilmk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzc5/MzQxLTE1NTc3MTM1/MzAtNTI3OS5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/13379341"
+    },
+    {
+      "id": 11701436,
+      "title": "Fine But Dying",
+      "artist": "Liza Anne",
+      "year": 2018,
+      "cover": "https://i.discogs.com/Z9inzA50qDhmCEY_QERr60LTlt2ejP1wO-RBmplKIiw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzAx/NDM2LTE1MjEwNTI5/OTktNTUwMS5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/11701436"
+    },
+    {
+      "id": 21472360,
+      "title": "Het Is Een Wies",
+      "artist": "Wies",
+      "year": 2022,
+      "cover": "https://i.discogs.com/a9urjNC8E_UEgfEaUTGINR4qYbDZf_XEi20vK_kVeCo/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDcy/MzYwLTE2NDAzNzE0/NjctOTQ1MC5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/21472360"
+    },
+    {
+      "id": 9847946,
+      "title": "Landmark",
+      "artist": "Hippo Campus",
+      "year": 2017,
+      "cover": "https://i.discogs.com/BN8z9AXLvOOHP8SoBgwcEXPAqu5uj-unfTs0sZ04Imk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NDc5/NDYtMTQ4NzMxNjU3/Ny0xOTE0LmpwZWc.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/9847946"
+    },
+    {
+      "id": 4615314,
+      "title": "Bad Blood",
+      "artist": "Bastille",
+      "year": 2013,
+      "cover": "https://i.discogs.com/oc_OpR7nbeUcj-rGo1Nip_FZScvA_AeK_Fzo6VSPwzs/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MTUz/MTQtMTU0ODQwNzgy/Ni04NDIwLmpwZWc.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/4615314"
+    },
+    {
+      "id": 24818870,
+      "title": "Blossoms",
+      "artist": "Blossoms",
+      "year": 2022,
+      "cover": "https://i.discogs.com/iQVLlkIZvNx_KZMenXdwO-sedd_G9O8J487I7bX6UYk/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0ODE4/ODcwLTE3MTIyNDky/NTktMjQ5Mi5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/24818870"
+    },
+    {
+      "id": 3354383,
+      "title": "Born To Die",
+      "artist": "Lana Del Rey",
+      "year": 2012,
+      "cover": "https://i.discogs.com/XJwYS7pdc3sELepYbBfW2DPOjDYXxpKOFLwsDC073DE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTQz/ODMtMTc2NjUzMTU2/OC03MDg0LmpwZWc.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/3354383"
+    },
+    {
+      "id": 1244247,
+      "title": "Vampire Weekend",
+      "artist": "Vampire Weekend",
+      "year": 2008,
+      "cover": "https://i.discogs.com/ok5vQkvlu6oXRVOz14xu5h3DC_U_jaTn8d7Y454Se9Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDQy/NDctMTM5NTY1NzMx/My04OTAxLmpwZWc.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/1244247"
+    },
+    {
+      "id": 14700141,
+      "title": "Maniac",
+      "artist": "Dan Romer",
+      "year": 2020,
+      "cover": "https://i.discogs.com/gBgC_cpopqUJogqylJmRASBnIuoxMosc28yq9ivny4I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NzAw/MTQxLTE2NzkzNTEz/NDMtNTM2OS5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/14700141"
+    },
+    {
+      "id": 23999210,
+      "title": "Blue Hour",
+      "artist": "Mothica",
+      "year": 2022,
+      "cover": "https://i.discogs.com/Jmf2rOd6KGXepyMHWDAfO94rKEcl-9cRpIbuuw8J63M/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzOTk5/MjEwLTE2NTg5NDM4/NzUtMTE2Ny5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/23999210"
+    },
+    {
+      "id": 16304786,
+      "title": "Chip Chrome & The Mono-Tones",
+      "artist": "The Neighbourhood",
+      "year": 2020,
+      "cover": "https://i.discogs.com/yByF19YxLT6kaF7H8qjt15ZJaWHWKXnF0WaeZbLQhDA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA0/Nzg2LTE3NDcyMjc5/MTgtMTMzOC5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/16304786"
+    },
+    {
+      "id": 5537191,
+      "title": "Night Visions",
+      "artist": "Imagine Dragons",
+      "year": 2014,
+      "cover": "https://i.discogs.com/aJf_mACxEtqPnIHycRML4yFYm-3-HAKwO-nJ51Kw9to/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1Mzcx/OTEtMTc4NjMwMTcw/Ny00NzA3LmpwZWc.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/5537191"
+    },
+    {
+      "id": 16177934,
+      "title": "Parachutes",
+      "artist": "Coldplay",
+      "year": null,
+      "cover": "https://i.discogs.com/JduxofojjKCJyAtyF5hZuGU1Ph-XA_g3uE8Zfebl7U8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MTc3/OTM0LTE2MDQ3Njg4/OTEtNzA3MS5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/16177934"
+    },
+    {
+      "id": 13352279,
+      "title": "Nothing Happens",
+      "artist": "Wallows",
+      "year": 2019,
+      "cover": "https://i.discogs.com/lPZbrv0otp8ntt23Gyp7ubZkV1TGAkvajGL3KiFYPFQ/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzUy/Mjc5LTE3MTc5Njg2/OTktOTMyNC5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/13352279"
+    },
+    {
+      "id": 14891984,
+      "title": "Cape God",
+      "artist": "Allie X",
+      "year": 2020,
+      "cover": "https://i.discogs.com/BeW0-DfYELustgCF99Awm5by9uqTkjkyiIOI86gFA98/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODkx/OTg0LTE3MzIyNzkw/MTEtMTU4MS5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/14891984"
+    },
+    {
+      "id": 10600327,
+      "title": "Emerging Adulthood",
+      "artist": "Dan Croll",
+      "year": 2017,
+      "cover": "https://i.discogs.com/S4yN2vztHhhUJhGby0jYNG8htMc3ljIoD3VPrBX7-iQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjAw/MzI3LTE2ODE4NzYx/MzQtMTk1MC5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/10600327"
+    },
+    {
+      "id": 13159413,
+      "title": "Damaged",
+      "artist": "Bülow",
+      "year": 2018,
+      "cover": "https://i.discogs.com/1c7y5V9GoaFUysfGi8e9i7IB0313Q7qPzFS_RDgtN30/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTU5/NDEzLTE2NjY0OTAz/NTMtOTU0NS5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/13159413"
+    },
+    {
+      "id": 13889633,
+      "title": "Crystalline",
+      "artist": "Bülow",
+      "year": 2019,
+      "cover": "https://i.discogs.com/wFJJJGm8XcBW3g7005ROIsFV_B07VEj1vmcnAhncM9E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzODg5/NjMzLTE2NjY1NzY1/NjUtMTQwNi5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/13889633"
+    },
+    {
+      "id": 11530690,
+      "title": "Wiped Out!",
+      "artist": "The Neighbourhood",
+      "year": 2016,
+      "cover": "https://i.discogs.com/G3IWO65b0U8eCi-4VTwTER6EyqcOcFLWd_00ooDa2wk/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTMw/NjkwLTE1MTc5OTU2/MDItODYxMi5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/11530690"
+    },
+    {
+      "id": 21051133,
+      "title": "Sacred Spaces",
+      "artist": "SYML",
+      "year": 2021,
+      "cover": "https://i.discogs.com/hKIwLN5sokDXJntrdhoBCrgGRyvUN5AniKsR_R-GWHY/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDUx/MTMzLTE2MzczOTEx/ODctMjUwMS5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/21051133"
+    },
+    {
+      "id": 10817008,
+      "title": "Broken Machine",
+      "artist": "Nothing But Thieves",
+      "year": 2017,
+      "cover": "https://i.discogs.com/D9Hz8Gf0-ZlMIKsvakF8N6CIMYukg8OvkIh2ZsltqBY/rs:fit/g:sm/q:90/h:268/w:268/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODE3/MDA4LTE1MDQ4OTQ5/MzktMjQ3NC5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/10817008"
+    },
+    {
+      "id": 8264395,
+      "title": "Headcase / Hard To Read",
+      "artist": "Day Wave",
+      "year": 2016,
+      "cover": "https://i.discogs.com/Qifv70FNmK_Hn2Zmlazk-AeOyTMgIG5Qug1Q_fX6ElM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNjQz/OTUtMTQ2ODM3MDU0/Ny04MjU2LmpwZWc.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/8264395"
+    },
+    {
+      "id": 20714908,
+      "title": "Songs For Morning And Evening Times",
+      "artist": "Mating Ritual",
+      "year": 2021,
+      "cover": "https://i.discogs.com/wRFZreJpZWRGZbhTNg99z2o0ysgO4hoBaGGxvbyw7EI/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzE0/OTA4LTE2MzUwOTUx/MzYtNjE4Mi5wbmc.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/20714908"
+    },
+    {
+      "id": 13725492,
+      "title": "They Might've Even Loved Me",
+      "artist": "NoMBE",
+      "year": 2019,
+      "cover": "https://i.discogs.com/F5hGz3bw0SDQHRTWEC-_CJsf5IGXylRcq0qpBXkl380/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzI1/NDkyLTE1NjkwOTcx/ODktNDQxMy5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/13725492"
+    },
+    {
+      "id": 12738435,
+      "title": "Arcade Fire",
+      "artist": "Arcade Fire",
+      "year": 2018,
+      "cover": "https://i.discogs.com/WqAz0MTo7wfUm-PjHpt-dMIBrYQNQvrklxuvwciYtBM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzM4/NDM1LTE1NDE3ODE5/ODQtMzI5Ny5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/12738435"
+    },
+    {
+      "id": 15533476,
+      "title": "What's It Like Over There?",
+      "artist": "Circa Waves",
+      "year": 2020,
+      "cover": "https://i.discogs.com/VWw_PtDhBUbyPLxheQTEnlR1k7dSbPSXbEFWcJRYimU/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTMz/NDc2LTE1OTMxNzE4/ODUtNzgwOS5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/15533476"
+    },
+    {
+      "id": 21438541,
+      "title": "Vinyl Moon Volume 075: Seventy Five",
+      "artist": "Various",
+      "year": 2021,
+      "cover": "https://i.discogs.com/m4SSIiwKd3RPXLaVvJm4TY0aGzD4MeDwJG29FZxUWHo/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNDM4/NTQxLTE2NDA1MzIw/ODgtOTM3Mi5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/21438541"
+    },
+    {
+      "id": 4570366,
+      "title": "Random Access Memories",
+      "artist": "Daft Punk",
+      "year": 2013,
+      "cover": "https://i.discogs.com/IR6_z_1KUErO-OORqXG2_MJhqWxsaPxYRi-hOLLdHic/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NzAz/NjYtMTc0OTM3MjMx/Ny0xODg1LmpwZWc.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/4570366"
+    },
+    {
+      "id": 367104,
+      "title": "The Dark Side Of The Moon",
+      "artist": "Pink Floyd",
+      "year": 1973,
+      "cover": "https://i.discogs.com/mMxJHZMv_EUMgDso6PMI1HKsHHntkdG2ULQ2KW-1vHc/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzEw/NC0xNDcyNTcyOTMx/LTUxMDQuanBlZw.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/367104"
+    },
+    {
+      "id": 3187666,
+      "title": "Hurry Up, We're Dreaming.",
+      "artist": "M83",
+      "year": 2011,
+      "cover": "https://i.discogs.com/kMm1NrxvQG4pfP8koAfF6OOLsW_ZBdkpGozd-hWYNYU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODc2/NjYtMTQwMzU1Nzg5/OC03Njk5LmpwZWc.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/3187666"
+    },
+    {
+      "id": 9023272,
+      "title": "Wild World",
+      "artist": "Bastille",
+      "year": 2016,
+      "cover": "https://i.discogs.com/N_ZFECkLjsVY43Z8kil82cGqJ0RaW4MH4RpEKbr5X20/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkwMjMy/NzItMTQ3NTUwNzU5/NS02ODA4LmpwZWc.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/9023272"
+    },
+    {
+      "id": 20557933,
+      "title": "Smalltalk & DMCs",
+      "artist": "Varley",
+      "year": 2021,
+      "cover": "https://i.discogs.com/G0kZvnwGDOP3Lt8D0v_GAEDkVuWKakWLWO3W6yetbbo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNTU3/OTMzLTE2MzQwMDIy/MDUtMTcxMi5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/20557933"
+    },
+    {
+      "id": 13074592,
+      "title": "Cigarettes After Sex",
+      "artist": "Cigarettes After Sex",
+      "year": 2017,
+      "cover": "https://i.discogs.com/KW2AgLCwnwKBiKbH2DxMdIPEeMwnmLSrdfpUqEYJDRs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMDc0/NTkyLTE1NDg5Mzg5/ODUtMTYzOC5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/13074592"
+    },
+    {
+      "id": 13288670,
+      "title": "Shadowboxer",
+      "artist": "Mansionair",
+      "year": 2019,
+      "cover": "https://i.discogs.com/pKSuekvS5WhWgSq1f6qJDReDP_7XgmSJ_Xhe89-8h14/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjg4/NjcwLTE1NTE0NTQy/MzctNzA3Ni5wbmc.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/13288670"
+    },
+    {
+      "id": 1976385,
+      "title": "XX",
+      "artist": "The XX",
+      "year": 2009,
+      "cover": "https://i.discogs.com/H5GYNbsjvaVLqgmLRj1EHtVW6MyJ4FFVtDLMcEHjjrE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NzYz/ODUtMTMwOTY3Nzk5/Ny5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/1976385"
+    }
+  ]
+}

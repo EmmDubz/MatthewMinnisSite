@@ -1,0 +1,13 @@
+services:
+  site:
+    build:
+      context: .
+    container_name: matthewminnis-site
+    restart: unless-stopped
+    networks:
+      - tunnel
+
+networks:
+  tunnel:
+    external: true
+    name: tunnels_default
