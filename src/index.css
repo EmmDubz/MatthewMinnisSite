@@ -361,7 +361,7 @@ svg {
 .prose-content p,
 .prose-content li {
   max-width: 100%;
-  overflow-wrap: anywhere;
+  overflow-wrap: break-word;
 }
 
 .timeline-content {
@@ -1211,7 +1211,9 @@ svg {
   }
 
   .photography-header h1 {
-    font-size: clamp(3rem, 15vw, 5rem);
+    font-size: clamp(2.6rem, 13vw, 4.4rem);
+    overflow-wrap: normal;
+    hyphens: none;
   }
 
   .photography-header > span {
