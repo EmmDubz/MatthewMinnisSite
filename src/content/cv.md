@@ -2,9 +2,9 @@
 
 ## Profile
 
-- Final-year Mechanical Engineering student at the University of Lincoln, graduating June 2027.
-- Broad knowledge spanning engineering, computing, and commercial domains; technically hands-on and commercially aware, with experience in a professional services environment and a track record of seeing personal technical projects through from concept to delivery.
-- Experienced applying AI tools to complex technical and analytical work through to finished delivery.
+- Final-year Mechanical Engineering student at the University of Lincoln (graduating June 2027) with practical experience across aerospace flight testing, client-facing professional services, and rapid software prototyping.
+- Combines engineering with commercial awareness with a track record of taking technical projects from initial concept to deployment.
+- Skilled at leveraging AI development tools and APIs to automate workflows and solve operational problems.
 
 ## Education
 

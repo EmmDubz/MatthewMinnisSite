@@ -1,10 +1,10 @@
 # Matthew Minnis
 
-> Final-year Mechanical Engineering student at the University of Lincoln, graduating June 2027.
+> Final-year Mechanical Engineering student at the University of Lincoln (graduating June 2027) with practical experience across aerospace flight testing, client-facing professional services, and rapid software prototyping.
 
-Broad knowledge spanning engineering, computing, and commercial domains; technically hands-on and commercially aware, with experience in a professional services environment and a track record of seeing personal technical projects through from concept to delivery.
+Combines engineering with commercial awareness with a track record of taking technical projects from initial concept to deployment.
 
-Experienced applying AI tools to complex technical and analytical work through to finished delivery.
+Skilled at leveraging AI development tools and APIs to automate workflows and solve operational problems.
 
 <!--
 AUTHOR PROMPT:
