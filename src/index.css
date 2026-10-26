@@ -381,16 +381,35 @@ svg {
   margin-bottom: clamp(3rem, 6vw, 5rem);
 }
 
-.timeline-content h3 {
-  max-width: 38rem;
-  margin: 3.2rem 0 0.35rem;
+.timeline-item {
+  position: relative;
+  margin: 3.2rem 0 0;
   padding-top: 1.8rem;
   border-top: 1px solid var(--line);
+}
+
+.timeline-item h3,
+.timeline-content h3 {
+  max-width: 38rem;
+  margin: 0 0 0.35rem;
+  padding-top: 0;
+  border-top: none;
   font-family: var(--serif);
   font-size: clamp(1.5rem, 2.5vw, 2.25rem);
   font-weight: 400;
   line-height: 1.12;
   letter-spacing: -0.025em;
+}
+
+.timeline-item-split {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(260px, 340px);
+  gap: clamp(2rem, 5vw, 4.5rem);
+  align-items: start;
+}
+
+.timeline-item-body {
+  min-width: 0;
 }
 
 .timeline-content h3 + p,
@@ -412,6 +431,7 @@ svg {
   margin-top: 1.15rem;
 }
 
+.timeline-content p,
 .timeline-content > p {
   margin: 0.1rem 0;
   color: var(--muted);
@@ -419,6 +439,7 @@ svg {
   line-height: 1.5;
 }
 
+.timeline-content p strong,
 .timeline-content > p strong {
   color: var(--ink);
 }
@@ -449,8 +470,9 @@ svg {
 }
 
 .timeline-figure {
-  max-width: 440px;
-  margin: 1.85rem 0 2.5rem;
+  width: 100%;
+  max-width: 340px;
+  margin: 0;
 }
 
 .timeline-figure img {
@@ -1084,7 +1106,22 @@ svg {
 
   .timeline-content h3 {
     max-width: 100%;
-    margin-top: 3rem;
+    margin-top: 0;
+  }
+
+  .timeline-item {
+    margin-top: 2.5rem;
+    padding-top: 1.5rem;
+  }
+
+  .timeline-item-split {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .timeline-item-split .timeline-figure {
+    max-width: 360px;
+    margin-top: 0.5rem;
   }
 
   .timeline-content h3 + p,
@@ -1309,6 +1346,7 @@ svg {
     color: #ece9e0;
   }
 
+  .timeline-content p,
   .timeline-content > p,
   .cv-content p {
     color: var(--muted);

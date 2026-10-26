@@ -7,8 +7,45 @@ type MarkdownContentProps = {
   className?: string
 }
 
+const IMAGE_REGEX = /!\[([^\]]*)\]\(([^"'\s]+)(?:\s+["']([^"']*)["'])?\)/
+
 export function MarkdownContent({ children, className = '' }: MarkdownContentProps) {
   const visibleContent = children.replace(/<!--[\s\S]*?-->/g, '').trim()
+
+  if (className.includes('timeline-content')) {
+    const [header, ...items] = visibleContent.split(/(?=^###\s)/m)
+
+    return (
+      <div className={`prose-content ${className}`.trim()}>
+        {header && <ReactMarkdown remarkPlugins={[remarkGfm]}>{header}</ReactMarkdown>}
+        {items.map((item, index) => {
+          const match = item.match(IMAGE_REGEX)
+          if (match) {
+            const [, alt, src, title] = match
+            const textContent = item.replace(IMAGE_REGEX, '').trim()
+
+            return (
+              <div key={index} className="timeline-item timeline-item-split">
+                <div className="timeline-item-body">
+                  <ReactMarkdown remarkPlugins={[remarkGfm]}>{textContent}</ReactMarkdown>
+                </div>
+                <figure className="timeline-figure">
+                  <img src={src} alt={alt ?? ''} loading="lazy" />
+                  {title && <figcaption>{title}</figcaption>}
+                </figure>
+              </div>
+            )
+          }
+
+          return (
+            <div key={index} className="timeline-item">
+              <ReactMarkdown remarkPlugins={[remarkGfm]}>{item}</ReactMarkdown>
+            </div>
+          )
+        })}
+      </div>
+    )
+  }
 
   return (
     <div className={`prose-content ${className}`.trim()}>
