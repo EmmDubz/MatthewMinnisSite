@@ -2,7 +2,7 @@
 
 > Final-year Mechanical Engineering student at the University of Lincoln (graduating June 2027) with practical experience across aerospace flight testing, client-facing professional services, and rapid software prototyping.
 
-Combines engineering with commercial awareness with a track record of taking technical projects from initial concept to deployment.
+Combines engineering and commercial awareness with a track record of taking technical projects from initial concept to deployment.
 
 Skilled at leveraging AI development tools and APIs to automate workflows and solve operational problems.
 

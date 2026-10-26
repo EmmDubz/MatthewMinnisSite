@@ -448,6 +448,33 @@ svg {
   content: "";
 }
 
+.timeline-figure {
+  max-width: 440px;
+  margin: 1.85rem 0 2.5rem;
+}
+
+.timeline-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--line);
+  background: var(--paper-deep);
+}
+
+.timeline-figure figcaption {
+  margin-top: 0.65rem;
+  color: var(--muted);
+  font-size: 0.72rem;
+  line-height: 1.45;
+  letter-spacing: 0.02em;
+}
+
+.timeline-figure figcaption::before {
+  margin-right: 0.35rem;
+  color: var(--accent);
+  content: "—";
+}
+
 .interest-layout {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(180px, 0.3fr);

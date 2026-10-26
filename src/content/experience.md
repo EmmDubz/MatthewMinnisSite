@@ -8,6 +8,8 @@
 - Supported flight test campaigns for the VX4 electric VTOL aircraft leading up to the Farnborough International Airshow (FIA) public flight display through sortie preparation, briefings, and ground/flight operation support; served as a Flight Test Engineer (FTE) following FIA.
 - Architected and deployed a web-based briefing tool integrating Atlassian Jira, NATS PIBS, weather data, and internal telemetry APIs, eliminating manual briefing prep and delivering £110k+ in projected annual operational savings.
 
+![Flight test prototype on the tarmac at Farnborough International Airshow](/photos/fia-flight-test.webp "Farnborough International Airshow (FIA) — on the flight line with the VX4 prototype.")
+
 ### Accounting Trainee
 
 **Bee Motion, Stockport**  
