@@ -13,7 +13,7 @@
 **University of Lincoln**  
 *Sept 2023 – Expected June 2027*
 
-- Currently doing a final-year dissertation on “Investigating the use of Artificial Intelligence for determining the performance degradation of sensitive measurement instrumentation”
+- Final-Year Dissertation: “Investigating the Use of Machine Learning & Wider Artificial Intelligence Approaches for Predictive Performance Degradation Forecasting in LC-HRMS Instrumentation”
 - Final year modules: Finite Element Analysis, Signal Processing, & Energy Systems & Conversion
 
 ### Calday Grange Grammar School, West Kirby
@@ -35,7 +35,7 @@
 **Vertical Aerospace, Kemble**  
 *June 2026 – September 2026*
 
-- Supported flight test campaigns for the VX4 aircraft leading up to the Farnborough International Airshow (FIA) public flight display through sortie preparation, briefings, and ground/flight operation support; served as Flight Test Engineer (FTE) on a flight sortie following FIA.
+- Supported flight test campaigns for the VX4 electric VTOL aircraft leading up to the Farnborough International Airshow (FIA) public flight display through sortie preparation, briefings, and ground/flight operation support; served as a Flight Test Engineer (FTE) following FIA.
 - Architected and deployed a web-based briefing tool integrating Atlassian Jira, NATS PIBS, weather data, and internal telemetry APIs, eliminating manual briefing prep and delivering £110k+ in projected annual operational savings.
 
 ### Accounting Trainee
@@ -94,7 +94,7 @@
 
 ## Interests
 
-Interested in the energy transition and sustainability, both the engineering and the broader economic and geopolitical dimensions. Equally drawn to questions of how complex systems resolve the decisions of individuals, which feeds into interests in economics and geopolitics as much as engineering. Currently writing a science fiction novel reflecting interests in worldbuilding, speculative technology, and long-run systems thinking. Outside of that: aviation, photography, collecting records, and playing cards.
+Keen interest in macroeconomics, global affairs, and how complex systems adapt to new technologies. Outside of engineering, I enjoy photography, collecting vinyl records, general aviation, and both reading and writing Sci-Fi.
 
 ## Other
 

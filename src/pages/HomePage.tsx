@@ -5,6 +5,7 @@ import { MarkdownContent } from '../components/MarkdownContent'
 import { PageMeta } from '../components/PageMeta'
 import { RecordWidget } from '../components/RecordWidget'
 import { content } from '../lib/content'
+import { defaultDescription } from '../lib/site-meta'
 
 function ArrowIcon() {
   return (
@@ -17,7 +18,7 @@ function ArrowIcon() {
 export function HomePage() {
   return (
     <>
-      <PageMeta />
+      <PageMeta description={defaultDescription} />
       <section className="hero-section">
         <MarkdownContent className="hero-copy">{content.home.body}</MarkdownContent>
         <div className="hero-links">

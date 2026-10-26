@@ -8,7 +8,7 @@
     "sync:discogs": "node scripts/sync-discogs.mjs",
     "prepare:photos": "node scripts/prepare-photos.mjs",
     "generate:social": "node scripts/generate-social-card.mjs",
-    "build": "npm run sync:discogs && npm run prepare:photos && npm run generate:social && tsc -b && vite build",
+    "build": "npm run sync:discogs && npm run prepare:photos && npm run generate:social && tsc -b && vite build && vite build --ssr src/entry-server.tsx --outDir dist-ssr && node scripts/prerender.mjs",
     "typecheck": "tsc -b --pretty false",
     "lint": "oxlint",
     "preview": "vite preview"

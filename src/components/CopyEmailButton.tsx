@@ -43,11 +43,7 @@ export function CopyEmailButton({ className = '' }: { className?: string }) {
     >
       <span>{status === 'copied' ? 'Copied' : status === 'failed' ? 'Copy failed' : 'Email'}</span>
       <svg aria-hidden="true" viewBox="0 0 16 16">
-        {status === 'copied' ? (
-          <path d="m3 8 3 3 7-7" />
-        ) : (
-          <path d="M5 5V3.5A1.5 1.5 0 0 1 6.5 2h6A1.5 1.5 0 0 1 14 3.5v6a1.5 1.5 0 0 1-1.5 1.5H11M3.5 5h6A1.5 1.5 0 0 1 11 6.5v6A1.5 1.5 0 0 1 9.5 14h-6A1.5 1.5 0 0 1 2 12.5v-6A1.5 1.5 0 0 1 3.5 5Z" />
-        )}
+        {status === 'copied' ? <path d="m3 8 3 3 7-7" /> : <path d="M2 8h12m-4-4 4 4-4 4" />}
       </svg>
     </button>
   )

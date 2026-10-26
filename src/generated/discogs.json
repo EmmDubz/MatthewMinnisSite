@@ -1,6 +1,22 @@
 {
-  "syncedAt": "2026-10-24T22:14:10.646Z",
+  "syncedAt": "2026-10-25T01:02:57.628Z",
   "records": [
+    {
+      "id": 36875179,
+      "title": "This Music May Contain Hope.",
+      "artist": "Raye",
+      "year": 2026,
+      "cover": "https://i.discogs.com/iwJF6BQKB2fCiFz8-Cf1akf8YqQG6Hr6h0LIrcdfCSI/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2ODc1/MTc5LTE3NzQ2OTQ5/MTctMzk5Ny5qcGVn.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/36875179"
+    },
+    {
+      "id": 5829157,
+      "title": "ZABA",
+      "artist": "Glass Animals",
+      "year": 2014,
+      "cover": "https://i.discogs.com/sfLz22UclOLMOsH1hwfZwvGgttSk-ULgd6c8F8obpeE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4Mjkx/NTctMTQ2NzAzODE3/OC02NzYxLmpwZWc.jpeg",
+      "discogsUrl": "https://www.discogs.com/release/5829157"
+    },
     {
       "id": 36420514,
       "title": "Wiped Out!",

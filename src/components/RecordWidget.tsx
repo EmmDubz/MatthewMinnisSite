@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 
 import collection from '../generated/discogs.json'
 
@@ -14,15 +14,20 @@ function randomIndex(length: number, previous = -1) {
 
 export function RecordWidget() {
   const records = collection.records as Record[]
-  const [index, setIndex] = useState(() => randomIndex(records.length))
+  const [index, setIndex] = useState(0)
   const record = records[index]
+
+  useEffect(() => {
+    const timeout = window.setTimeout(() => setIndex(randomIndex(records.length)))
+    return () => window.clearTimeout(timeout)
+  }, [records.length])
 
   if (!record) return null
 
   return (
     <section className="record-section" aria-labelledby="record-heading">
       <div className="section-kicker">
-        <span>Collection / {records.length}</span>
+        <span>My collection</span>
         <button type="button" onClick={() => setIndex(randomIndex(records.length, index))}>
           Spin another
           <svg aria-hidden="true" viewBox="0 0 20 20">
